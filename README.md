@@ -7,6 +7,6 @@ The application it's a design of an events page home screen made with flutter
 This design is based in follow Adobe XD project in [drible](https://dribbble.com/shots/9519342-UVENTO-App-Event-app-Exploration).
 
 ## Screenshoots
--             |  -
-:-------------------------:|:-------------------------:
+Screnshoot 1                               | Screnshoot 2
+:-----------------------------------------:|:-----------------------------------------:
 ![Image_Not_Found](screenshoots/shot1.png) | ![Image_Not_Found](screenshoots/shot2.png)
